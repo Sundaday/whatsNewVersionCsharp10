@@ -1,0 +1,17 @@
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\What's-new-in-C10.exe
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\What's-new-in-C10.deps.json
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\What's-new-in-C10.runtimeconfig.json
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\What's-new-in-C10.dll
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\What's-new-in-C10.pdb
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.csproj.CopyComplete
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.dll
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\refint\What's-new-in-C10.dll
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.pdb
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\What's-new-in-C10.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\What's-new-in-C10\What's-new-in-C10\obj\Debug\net6.0\ref\What's-new-in-C10.dll
